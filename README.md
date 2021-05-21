@@ -10,4 +10,4 @@ Differences from google samples image:
 * Update zkGenConfig.sh in order to update java.env and zoo.cfg
 
 
-Please refer to the [README_ORIGINAL.md]() for more details.
+Please refer to the [README_origin.md]() for more details.
